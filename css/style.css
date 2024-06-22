@@ -33,7 +33,7 @@ h1 {
 }
 
 h2 {
-  font-size: 5.1em;
+  font-size: 4.1em;
   line-height: 1em;
   letter-spacing: .03em;
   margin-bottom: 2px;
@@ -109,4 +109,24 @@ img {
   background: rgba(247,211,27,1);
   margin-left: 163px;
   padding-top: 25px;
+}
+#despicable {
+  color: black;
+  letter-spacing: .300em;
+}
+#pharell {
+  color: black;
+  text-align: left;
+  float: left;
+}
+#columbia {
+  float: left;
+}
+#records {
+  float: right;
+  text-align: center;
+}
+#sony {
+  float: right;
+  align-items: center;
 }
